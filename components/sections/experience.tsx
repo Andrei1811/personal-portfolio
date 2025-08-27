@@ -19,6 +19,29 @@ export default function Experience() {
 
     const experiences = [
         {
+            title: "Software Systems Engineer (Java/SQL)",
+            location: "Romania, Sibiu",
+            company: "Bertrandt",
+            period: "September 2025 - Present",
+            description:
+                "I ensure the stability, optimization, and seamless operation of enterprise data integration and reporting systems by managing Java/SQL-based loaders, troubleshooting and transforming complex data interfaces, automating processes, and delivering secure, business-critical insights through advanced monitoring, analysis, and cross-functional collaboration.",
+            skills: [
+                "Java",
+                "SQL",
+                "XML",
+                "XSLT",
+                "Crystal Reports",
+                "ETL",
+                "Data Integration",
+                "SQL Query Optimization",
+                "Log Analysis",
+                "Backend development",
+                "Database Management",
+                "JDBC"
+
+            ],
+        },
+        {
             title: "Digital Launch & Growth for Startups",
             location: "Romania, Sibiu",
             company: "Freelancing",
@@ -60,6 +83,8 @@ export default function Experience() {
                 "I am a Computer Science and Electrical Engineering graduate with a strong foundation in software development, systems design, and problem-solving.",
             skills: ["C++", "Python", "Java", "JavaScript", "Typescript"],
         },
+
+
     ]
 
     return (

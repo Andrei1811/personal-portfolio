@@ -81,9 +81,9 @@ export default function About() {
         >
           <div className="bg-gray-900/50 backdrop-blur-sm p-6 rounded-2xl border border-gray-800/50 shadow-lg hover:border-blue-500/30 transition-all duration-300">
             <p className="text-gray-300 leading-relaxed">
-                          With 2+ years of experience as a Test Engineer at ProIT, I've built a strong foundation in software testing, quality assurance, and automation.
-                          Proficient in C++, Python, Java, Angular, React and SQL, I've contributed to high-impact projects
-                          by improving testing processes and ensuring software reliability.
+                          I'm a software engineer with over 2 years of experience in software testing, backend integration, and automation. Starting as a Test Engineer at ProIT, I built a strong foundation in designing and executing test cases, debugging, and improving quality processes. Over time, I expanded into backend systems engineering, where I work with Java, SQL, Python, and XML/XSLT to handle data processing, reporting automation, and interface maintenance.
+                          With expertise across testing, scripting, and backend development, I focus on improving system reliability, optimizing workflows, and delivering user-focused digital solutions.
+
             </p>
             <p className="text-gray-300 leading-relaxed mt-4">
                           Driven by curiosity and continuous learning, I stay ahead of emerging technologies to deliver smarter, more efficient solutions. I'm especially passionate about helping startups and businesses scale by building robust, user-focused digital experiences.

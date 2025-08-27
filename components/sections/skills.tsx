@@ -26,7 +26,8 @@ export default function Skills() {
         { name: "Python", level: 80 },
           { name: "JavaScript", level: 95 },
           { name: "TypeScript", level: 80 },
-          { name: "Java", level: 60 },
+          { name: "Java", level: 85 },
+          { name: "SQL", level: 90 },
       ],
     },
     {
@@ -38,6 +39,12 @@ export default function Skills() {
           { name: "IDE/Editor: VS Code", level: 95 },
           { name: "REST API", level: 65 },
           { name: "Docker", level: 75 },
+          { name: "Crystal Reports & CMC", level: 90 },
+          { name: "JDBC(Java Database Connectivity", level: 75 },
+          { name: "Jira / ServiceNow", level: 100 },
+          { name: "Zabbix / Nagios", level: 75 },
+          { name: "Bash / Shell Scripting", level: 80 },
+          
       ],
     },
     {
@@ -49,6 +56,9 @@ export default function Skills() {
           { name: "Vue.js", level: 70 },
           { name: "Node.js (Express/NestJS)", level: 85},
           { name: "FastAPI", level: 60 },
+          { name: "Spring / Spring Boot (Java)", level: 50 },
+          { name: "Pandas / NumPy (Python)", level: 70 },
+          { name: "PyTest (Python)", level:  60 },
       ],
     },
     {
@@ -60,6 +70,12 @@ export default function Skills() {
           { name: "Code Versioning & Collaboration", level: 75 },
           { name: "Automated Testing & Debugging", level: 80},
           { name: "Cloud Services (AWS)", level: 65 },
+          { name: "Data Transformation & ETL (XML, XSLT, CSV handling)", level: 80 },
+          { name: "Reporting & Automation (Crystal Reports, CMC)", level: 90 },
+          { name: "System Monitoring & Maintenance (Zabbix, Nagios)", level: 85 },
+          { name: "Problem Solving & Root Cause Analysis", level: 100 },
+          { name: "Backend Systems Engineering (Java/SQL)", level: 90},
+          
       ],
     },
   ]
