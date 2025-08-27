@@ -93,7 +93,7 @@ export default function Hero() {
                         size="lg"
                         className="bg-gray-800/50 text-blue-400 border border-blue-500/30 font-medium px-8 py-6 rounded-full hover:shadow-[0_0_25px_rgba(59,130,246,0.5)] transition-all duration-300 text-lg"
                     >
-                        <a href="/files/Andrei_Raulea_CV (4) (1).pdf" download>
+                        <a href="/files/Andrei_Raulea_CV (5).pdf" download>
                             <span className="mr-2">📄</span> Download CV
                         </a>
                     </Button>
