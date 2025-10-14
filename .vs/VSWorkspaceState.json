@@ -1,8 +1,13 @@
 {
   "ExpandedNodes": [
     "",
-    "\\app"
+    "\\app",
+    "\\components",
+    "\\hooks",
+    "\\lib",
+    "\\public",
+    "\\public\\files",
+    "\\styles"
   ],
-  "SelectedNode": "\\app\\layout.tsx",
   "PreviewInSolutionExplorer": false
 }

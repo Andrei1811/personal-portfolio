@@ -19,7 +19,7 @@ export default function Experience() {
 
     const experiences = [
         {
-            title: "Software Systems Engineer (Java/SQL)",
+            title: "DevOps Engineer",
             location: "Romania, Sibiu",
             company: "Bertrandt",
             period: "September 2025 - Present",
