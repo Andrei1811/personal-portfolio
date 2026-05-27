@@ -80,14 +80,21 @@ export default function About() {
           )}
         >
           <div className="bg-gray-900/50 backdrop-blur-sm p-6 rounded-2xl border border-gray-800/50 shadow-lg hover:border-blue-500/30 transition-all duration-300">
-            <p className="text-gray-300 leading-relaxed">
-                          I'm a software engineer with over 2 years of experience in software testing, backend integration, and automation. Starting as a Test Engineer at ProIT, I built a strong foundation in designing and executing test cases, debugging, and improving quality processes. Over time, I expanded into backend systems engineering, where I work with Java, SQL, Python, and XML/XSLT to handle data processing, reporting automation, and interface maintenance.
-                          With expertise across testing, scripting, and backend development, I focus on improving system reliability, optimizing workflows, and delivering user-focused digital solutions.
+                      <p className="text-gray-300 leading-relaxed">
+                          I am a DevOps-oriented infrastructure and backend systems specialist with over 3 years of experience across infrastructure operations, software testing, automation, data processing, and production environments.
+                      </p>
 
-            </p>
-            <p className="text-gray-300 leading-relaxed mt-4">
-                          Driven by curiosity and continuous learning, I stay ahead of emerging technologies to deliver smarter, more efficient solutions. I'm especially passionate about helping startups and businesses scale by building robust, user-focused digital experiences.
-            </p>
+                      <p className="text-gray-300 leading-relaxed mt-4">
+                          I currently work with enterprise server environments built on Dell infrastructure, focusing on Windows Server, Linux, VMware, RAID configurations, storage components, system logs, hardware diagnostics, and remote management platforms such as iDRAC, iLO, and BMC.
+                      </p>
+
+                      <p className="text-gray-300 leading-relaxed mt-4">
+                          Before moving into infrastructure and systems engineering, I built a strong foundation in software testing and backend workflows, working with test case design, debugging, XML/CSV data flows, XSLT, SQL, Python, Java, and reporting automation.
+                      </p>
+
+                      <p className="text-gray-300 leading-relaxed mt-4">
+                          Driven by curiosity and continuous learning, I enjoy working at the intersection of infrastructure, backend systems, automation, and data to build reliable, scalable, and well-documented technical solutions.
+                      </p>
 
             <div className="mt-6 p-4 bg-gray-800/30 rounded-lg border border-gray-700/50">
               <p className="text-blue-400 italic">

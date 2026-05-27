@@ -19,10 +19,35 @@ export default function Experience() {
 
     const experiences = [
         {
-            title: "DevOps Engineeryyyyyyyyyyyyy",
+            title: "DevOps Engineer",
+            location: "Romania, Brasov",
+            company: "CGS Nexus",
+            period: "June 2026 - Present",
+            description:
+                "My current work is centered on enterprise infrastructure operations, where I investigate server- related incidents, analyze logs and alerts, diagnose hardware and software issues, and support production environments built on Dell server technologies.I work across Windows Server, Linux, VMware, RAID, storage systems, and remote management interfaces, combining structured troubleshooting with clear documentation and cross - functional communication.",
+            skills: [
+                "Windows Server",
+                "Linux",
+                "VMware",
+                "Dell Server Infrastructure",
+                "RAID",
+                "Storage Systems",
+                "iDRAC / iLO / BMC",
+                "Hardware Diagnostics",
+                "System Log Analysis",
+                "Infrastructure Troubleshooting",
+                "Incident Management",
+                "Root Cause Analysis",
+                "ServiceNow",
+                "Technical Documentation"
+
+            ],
+        },
+        {
+            title: "DevOps Engineer",
             location: "Romania, Sibiu",
             company: "Bertrandt",
-            period: "September 2025 - Present",
+            period: "September 2025 - June 2026",
             description:
                 "I ensure the stability, optimization, and seamless operation of enterprise data integration and reporting systems by managing Java/SQL-based loaders, troubleshooting and transforming complex data interfaces, automating processes, and delivering secure, business-critical insights through advanced monitoring, analysis, and cross-functional collaboration.",
             skills: [
