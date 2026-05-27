@@ -19,7 +19,7 @@ export default function Experience() {
 
     const experiences = [
         {
-            title: "DevOps Engineer",
+            title: "DevOps Engineeryyyyyyyyyyyyy",
             location: "Romania, Sibiu",
             company: "Bertrandt",
             period: "September 2025 - Present",
